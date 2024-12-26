@@ -76,33 +76,33 @@ It supports functionalities such as inserting, displaying, searching, updating, 
 # Input Example
 
   ```cpp
-  Enter your name: John
-  Enter your password: 12345
-  
-  1. INSERT
-  2. DISPLAY
-  3. SEARCH
-  4. CANCEL
-  5. UPDATE
-  6. APPEND
-  7. EXIT
+      Enter your name: John
+      Enter your password: 12345
+      
+      1. INSERT
+      2. DISPLAY
+      3. SEARCH
+      4. CANCEL
+      5. UPDATE
+      6. APPEND
+      7. EXIT
  ```
 # Output Example
 
-    ```cpp
+```cpp
      ID : 1001
      Name : John Doe
      Origin : Dhaka
      Destination : Sylhet
      Journey Date : 2024-12-30
      Departure Time : 9:00
-    ```
+```
 ---
 
 # Contributions
 
   - **Developer:**
-      - Mohammed Arif Mainuddin
+      - [Mohammed Arif Mainuddin](https://github.com/TimeWithPotato)
       - Rafat Jahan
       - Mst.Magferat Khatun
 
